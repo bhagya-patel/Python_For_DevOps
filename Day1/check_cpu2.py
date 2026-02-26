@@ -13,7 +13,6 @@ APP_PASSWORD = "abcd efgh ijkl mnop"  # Use Gmail App Password
 
 RECEIVER_EMAIL = "reciver@gmail.com"
 
-
 def send_email_alert(current_cpu, cpu_threshold):
     subject = "🚨 CPU Usage Alert!"
     
