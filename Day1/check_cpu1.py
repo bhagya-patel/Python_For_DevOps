@@ -2,6 +2,7 @@
 # Check the current CPU usage
 # If the CPU usage exceeds the threshold, send an email
 
+
 import psutil
 def check_cpu_threshold():
     cpu_threshold = float(input("Enter the CPU usage threshold (in percentage): "))
@@ -13,5 +14,6 @@ def check_cpu_threshold():
     else:
         print(f"CPU usage is {current_cpu}%, which is within the threshold of {cpu_threshold}%.")
     
-check_cpu_threshold()
+    
+    check_cpu_threshold()
 
