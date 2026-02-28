@@ -1,0 +1,15 @@
+2026-02-28 19:05:12,456 - INFO - Application started successfully
+2026-02-28 19:05:12,457 - ERROR - This is an ERROR message
+2026-02-28 19:05:13,102 - DEBUG - Debugging user authentication module
+2026-02-28 19:05:14,221 - WARNING - CPU usage is above 75%
+2026-02-28 19:05:15,334 - INFO - User login successful
+2026-02-28 19:05:16,445 - CRITICAL - Database connection lost
+2026-02-28 19:05:17,556 - INFO - File uploaded successfully
+2026-02-28 19:05:18,667 - ERROR - Failed to send email notification
+2026-02-28 19:05:19,778 - DEBUG - API response time: 245ms
+2026-02-28 19:05:20,889 - WARNING - Memory usage is high
+2026-02-28 19:05:21,990 - INFO - Scheduled task executed
+2026-02-28 19:05:22,111 - ERROR - Invalid user input detected
+2026-02-28 19:05:23,222 - INFO - Backup completed successfully
+2026-02-28 19:05:24,333 - DEBUG - Cache cleared successfully
+2026-02-28 19:05:25,444 - CRITICAL - System shutting down unexpectedly
